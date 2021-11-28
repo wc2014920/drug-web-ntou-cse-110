@@ -1,7 +1,7 @@
 # NTOU CS Project - 110
 該版本為目前最新版
-
-            
+## NTOU CS Project｜Website URL
+https://drug-app-ntoucse.herokuapp.com/
 
 ## NTOU CS Project - 110 | 摘要
 <p align="center">
